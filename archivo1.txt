@@ -1,3 +1,6 @@
+agrego una nueva linea local
+y pongo mas cambios
+en este archivo
 probando una linea de texto
 este es un cambio remoto
 realizado en otra rama
